@@ -2,7 +2,7 @@
 
 # Hi, I'm Pathmika 👋
 
-**Associate Tech Lead @ Omobio** · Full-Stack Engineer (Mobile & Web) · Applied AI/ML · MSc in AI @ University of Moratuwa
+**Full-Stack Engineer** (Mobile & Web) · Applied AI/ML · MSc in AI @ University of Moratuwa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathmika-weerarathna-4600b31a1/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pathmikaweerarathna@gmail.com)
@@ -13,12 +13,12 @@
 
 ### About
 
-Full-stack engineer who grew through every level at one company — intern to Associate Tech Lead — delivering production mobile, web, and backend systems for telecom clients across 9+ countries. Most recently taught myself applied AI/ML from the ground up and now lead a team building production ML systems for fraud detection and predictive analytics, alongside deepening that foundation through an MSc in Artificial Intelligence.
+Full-stack engineer with nearly five years of experience delivering production mobile, web, and backend systems for telecom clients across 9+ countries. Most recently taught myself applied AI/ML from the ground up and now build production ML systems for fraud detection and predictive analytics, alongside deepening that foundation through an MSc in Artificial Intelligence.
 
 - 🔭 Currently leading mobile, web, and AI/ML engineering initiatives, and building out an ML-driven fraud-detection R&D program
 - 🎓 Pursuing an MSc in Artificial Intelligence at the University of Moratuwa
-- ⚡ Grew from Software Engineer Intern to Associate Tech Lead in under 5 years
-- 🏆 Emerging Employee of the Year 2023 (Omobio)
+- ⚡ Nearly five years of production engineering across mobile, web, backend, and AI/ML
+- 🏆 Emerging Employee of the Year 2023
 
 ---
 
