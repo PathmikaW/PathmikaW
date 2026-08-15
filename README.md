@@ -48,7 +48,8 @@ Full-stack engineer with ~5 years shipping production mobile, web, and backend s
 </td></tr>
 <tr><td><b>⚙️ DevOps</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,gitlab,jenkins,linux,prometheus,grafana&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,githubactions,gitlab,jenkins,linux,prometheus,grafana&theme=dark" height="40"/>
+<br/>Microsoft Azure (AZ-900 Certified) · Docker · Git · CI/CD · Linux · Prometheus/Grafana
 
 </td></tr>
 <tr><td><b>👥 Leadership</b></td><td>
@@ -57,6 +58,8 @@ Agile delivery · technical mentoring · pre-sales & client engagement · archit
 
 </td></tr>
 </table>
+
+🏆 **Certifications:** Microsoft Certified: Azure Fundamentals (AZ-900) — [verify credential](https://learn.microsoft.com/en-us/users/pathmikaweerarathna-2693/credentials/7dd23730b12bbe07)
 
 <br/>
 
