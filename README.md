@@ -63,57 +63,45 @@ Agile delivery · technical mentoring · pre-sales & client engagement · archit
 
 <br/>
 
-## 💼 Industry Experience
+## 💼 Experience
 
-5 years across telecom and enterprise engagements, growing from intern to Associate Tech Lead. Generalized by domain here - the underlying codebases, client names, and internal product names belong to employers/clients, not to me:
+**5 years at Omobio (Pvt) Ltd**, growing from intern to Associate Tech Lead across mobile, web, AI/ML, and data-platform engineering. Client codebases and internal product names are generalized here - they belong to employers/clients, not to me.
 
-<table>
-<tr>
-<td width="40">📱</td>
-<td>
+### Associate Tech Lead &nbsp;·&nbsp; `Jan 2026 - Sep 2026`
 
-**Mobile Engineering**
-Led design and development of cross-platform React Native apps for multiple telecom and enterprise clients, managing store releases across Play Store, App Store, and Huawei AppGallery, and owned a flagship self-care app end-to-end for 2+ years. Built a fully custom native alarm engine from scratch (Java/Kotlin/Swift) replacing third-party libraries - exact-time delivery through OS battery restrictions, reboot persistence, and an astronomical-data-driven scheduling engine. Hardened production apps against fraud and tampering with certificate/public-key pinning, device-integrity (root/jailbreak/emulator) detection, per-request API integrity signing with a remote kill-switch, and encrypted selective state persistence. Built dual-channel push notification pipelines (FCM/HMS) and custom iOS notification service extensions, and delivered in-app subscription monetization with regional pricing and retention flows. Led major React Native version upgrades including New Architecture/TurboModules scaffolding on large, long-running production codebases.
+- Led, mentored, and scaled a cross-functional engineering team of 10+ developers, driving solution design and delivery across mobile, web, AI/ML, and data-platform initiatives.
+- Leveraged AI tools throughout design and development workflows to boost personal productivity, enabling faster turnaround, higher-quality output, and more efficient day-to-day execution.
+- Served as the technical subject-matter expert for pre-sales engagements, producing architecture proposals and technical validation for clients across Africa, South Asia, and the Middle East.
+- Led two flagship engineering initiatives: an AI/ML R&D program applying machine-learning-driven detection to an existing fraud-prevention product, and a centralized data-reporting platform spanning backend pipelines and web dashboards.
+- Managed client engagements, handled team responsibilities, and reported to management accordingly.
+- Maintained and versioned all project planning, communications, and self-learning documentation on the company SharePoint for smooth knowledge transfer.
 
-</td>
-</tr>
-<tr>
-<td>🌐</td>
-<td>
+### Senior Software Engineer &nbsp;·&nbsp; `Jan 2024 - Jan 2026`
 
-**Web & Backend Engineering**
-Led the team building a Next.js/TypeScript web self-care portal end-to-end and took it to production - auth/locale middleware, custom API client layers, global state management, and multi-gateway payment integration across multiple payment methods including OAuth2-based bank gateways. Contributed to the React admin consoles (Redux state management) of PHP/Yii2 platforms handling device-identity management and legal/compliance disclosure workflows. Contributed to a billing/reporting pipeline: recovered tens of thousands of dropped records and resolved a ~100x query-performance regression through targeted database indexing.
+- Led Agile delivery of end-to-end mobile and web applications, owning architecture design, effort estimation, and SOW reviews, while mentoring a team of 10 junior developers and establishing coding standards and CI/CD pipelines.
+- Led the project team building a telecom operator's Next.js web self-care portal, taking it to production with payment-gateway integration across multiple payment methods.
+- Owned a flagship telecom mobile self-care app for 2+ years (this role and the prior one): led its React Native version upgrade, delivered 3+ feature change requests, and hardened its security.
+- Self-initiated AI/ML capabilities in telecom security from the ground up: an embedding- and LLM-based fraud-detection module and an ensemble ML classifier with explainability and hyperparameter tuning, plus a TPS-based hardware-sizing model - extended into R&D with voice-fraud risk-scoring, social-graph analysis, and a churn/CLV-prediction prototype.
+- Developed a cross-platform React Native mobile solution with native integration (Java, Kotlin, Swift): a fully custom native alarm engine built from the ground up to replace third-party libraries, plus in-app subscription purchasing across iOS StoreKit and Google Play Billing.
+- Contributed to SQL/CDR reporting engineering for an SMSC billing platform, recovering ~85,000 dropped records and fixing a ~100x query-performance regression via targeted database indexing.
+- Managed client communications, project management, and documentation across new opportunities and ongoing projects.
+- Represented the team in company progress meetings, delivering quarterly and annual progress updates on its behalf.
 
-</td>
-</tr>
-<tr>
-<td>🤖</td>
-<td>
+### Software Engineer &nbsp;·&nbsp; `May 2022 - Jan 2024`
 
-**AI/ML Engineering**
-Self-initiated AI/ML in telecom security from zero and built a fraud-detection system: semantic-embedding similarity search against a rolling reference dataset, a local-LLM GenAI subsystem for content generation, and multilingual translation for content classification. Built an ensemble ML classifier (XGBoost/CatBoost) with SHAP explainability and hyperparameter tuning, plus a throughput-based hardware-sizing model. Extended into R&D with graph/network-based risk scoring for fraud-ring identification and churn/lifetime-value prediction prototypes (scikit-learn, Flask, React). Later led an AI/ML R&D program applying machine-learning-driven detection to an existing fraud-prevention product, and authored architecture proposals for larger-scale ML platforms spanning fraud detection, predictive/customer analytics, and roaming analytics.
+- Led design and development of cross-platform mobile applications for multiple telecom and enterprise clients in React Native, managing releases across Play Store, App Store, and Huawei AppGallery.
+- Contributed to the React admin-console frontends (Redux state management) of a carrier-grade device-management platform and a CDR-disclosure portal.
+- Led a major React Native version upgrade of a production telecom self-care app across two major versions, with New Architecture.
+- Participated in pre-sales client engagement and contributed to ISO 27001 certification-readiness documentation and a company-wide Git branching standard, later delivered as an internal training program.
+- Received the Emerging Employee of the Year Award (2023) for outstanding technical contribution.
 
-</td>
-</tr>
-<tr>
-<td>🗄️</td>
-<td>
+### Software Engineer (Intern) - Full Stack &nbsp;·&nbsp; `Oct 2021 - Apr 2022`
 
-**Data Platforms & DevOps**
-Architected and led development of a business-intelligence platform, deployed as a centralized on-prem system, evolving it from an early analytics prototype into a productionized, containerized system (Docker Compose, GitLab CI/CD on a self-configured runner). Stood up multi-node Elasticsearch clusters with mutual TLS, custom RBAC roles, and a disaster-recovery/backup toolchain. Built hundreds of ETL pipeline configurations with hand-written SQL rollups, custom dashboard visualizations, and a parallelized data-reconciliation framework validating pipeline integrity at scale. Also led a centralized data-reporting platform spanning backend pipelines and web dashboards. Designed capacity-planning and hardware-sizing models for data and ML-inference infrastructure.
-
-</td>
-</tr>
-<tr>
-<td>👥</td>
-<td>
-
-**Leadership & Pre-Sales**
-Led and mentored a 10+ engineer team across mobile, web, and AI/ML initiatives, owning architecture design, effort estimation, and SOW reviews and establishing coding standards and CI/CD pipelines. Served as technical subject-matter expert for pre-sales engagements with clients across Africa, South Asia, and the Middle East - architecture proposals, technical validation, and effort estimation. Managed client communications and reported to management, and represented the team in company progress meetings with quarterly and annual updates. Authored security/compliance guidance aligned to ISO 27001 SDLC hardening and ran internal engineering training programs covering Git workflow standards and AI/ML fundamentals. Maintained versioned project planning and knowledge-transfer documentation on the company SharePoint. Organized and judged an internal innovation challenge, evaluating proposals against a weighted scoring rubric.
-
-</td>
-</tr>
-</table>
+- Supported frontend, backend, and mobile feature development for enterprise-grade projects using React.js, React Native, Sencha Touch, Ext.js, and RESTful APIs.
+- Interacted with clients and completed a change request, undertaking all the development for a production-grade Salesforce mobile application.
+- Implemented automation scripts to improve development efficiency and reduce repetitive tasks.
+- Gained hands-on exposure to Agile methodologies, CI/CD pipelines, and cross-functional collaboration.
+- Successfully transitioned into a full-time Software Engineer role based on strong performance, adaptability, and learning ability.
 
 <br/>
 
