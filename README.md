@@ -25,7 +25,7 @@ Full-stack engineer with ~5 years shipping production mobile, web, and backend s
 <tr><td><b>🌐 Web</b></td><td>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux&theme=dark" height="40"/>
-<br/>React.js · Next.js · TypeScript/JavaScript · Redux/Redux-Saga
+<br/>React.js · Next.js · TypeScript/JavaScript · Redux
 
 </td></tr>
 <tr><td><b>🔌 Backend & APIs</b></td><td>
@@ -59,13 +59,13 @@ Agile delivery · technical mentoring · pre-sales & client engagement · archit
 </td></tr>
 </table>
 
-🏆 **Certifications:** Microsoft Certified: Azure Fundamentals (AZ-900) — [verify credential](https://learn.microsoft.com/en-us/users/pathmikaweerarathna-2693/credentials/7dd23730b12bbe07)
+🏆 **Certifications:** Microsoft Certified: Azure Fundamentals (AZ-900) - [verify credential](https://learn.microsoft.com/en-us/users/pathmikaweerarathna-2693/credentials/7dd23730b12bbe07)
 
 <br/>
 
 ## 💼 Industry Experience
 
-~5 years across telecom and enterprise engagements. Generalized by domain here — the underlying codebases, client names, and internal product names belong to employers/clients, not to me:
+~5 years across telecom and enterprise engagements. Generalized by domain here - the underlying codebases, client names, and internal product names belong to employers/clients, not to me:
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ Agile delivery · technical mentoring · pre-sales & client engagement · archit
 <td>
 
 **Mobile Engineering**
-Architected a ~2,700-line custom native alarm engine from scratch (Java/Kotlin/Swift, 26 files) replacing third-party libraries — exact-time delivery through OS battery restrictions, reboot persistence, and an astronomical-data-driven scheduling engine. Hardened production apps against fraud and tampering with certificate/public-key pinning, device-integrity (root/jailbreak/emulator) detection, per-request API integrity signing with a remote kill-switch, and encrypted selective state persistence. Built dual-channel push notification pipelines (FCM/HMS) and custom iOS notification service extensions. Delivered in-app subscription monetization with regional pricing and retention flows, and led multiple major React Native version upgrades including New Architecture/TurboModules scaffolding on large, long-running production codebases.
+Built a fully custom native alarm engine from scratch (Java/Kotlin/Swift) replacing third-party libraries - exact-time delivery through OS battery restrictions, reboot persistence, and an astronomical-data-driven scheduling engine. Hardened production apps against fraud and tampering with certificate/public-key pinning, device-integrity (root/jailbreak/emulator) detection, per-request API integrity signing with a remote kill-switch, and encrypted selective state persistence. Built dual-channel push notification pipelines (FCM/HMS) and custom iOS notification service extensions. Delivered in-app subscription monetization with regional pricing and retention flows, and led major React Native version upgrades including New Architecture/TurboModules scaffolding on large, long-running production codebases.
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ Architected a ~2,700-line custom native alarm engine from scratch (Java/Kotlin/S
 <td>
 
 **Web & Backend Engineering**
-Built Next.js/TypeScript web self-care portals end-to-end — auth/locale middleware, custom API client layers, global state management, and multi-gateway payment integration across six+ payment methods including OAuth2-based bank gateways. Contributed to PHP/Yii2 + React admin platforms handling device-identity management and legal/compliance disclosure workflows, including signaling-protocol integrations. Reverse-engineered a billing/reporting pipeline: recovered tens of thousands of dropped records and resolved a 240x query-performance regression through targeted database indexing.
+Led the team building a Next.js/TypeScript web self-care portal end-to-end and took it to production - auth/locale middleware, custom API client layers, global state management, and multi-gateway payment integration across multiple payment methods including OAuth2-based bank gateways. Contributed to the React admin consoles (Redux state management) of PHP/Yii2 platforms handling device-identity management and legal/compliance disclosure workflows. Contributed to a billing/reporting pipeline: recovered tens of thousands of dropped records and resolved a ~100x query-performance regression through targeted database indexing.
 
 </td>
 </tr>
@@ -91,7 +91,7 @@ Built Next.js/TypeScript web self-care portals end-to-end — auth/locale middle
 <td>
 
 **AI/ML Engineering**
-Self-initiated and built a production fraud-detection system from zero: semantic-embedding similarity search against a rolling reference dataset, a local-LLM GenAI subsystem for content generation, and multilingual translation for content classification. Built an ensemble ML classifier (XGBoost/CatBoost) with SHAP explainability and hyperparameter tuning, plus a throughput-based production hardware-sizing model. Extended into R&D with graph/network-based risk scoring for fraud-ring identification and churn/lifetime-value prediction prototypes (scikit-learn, Flask, React). Authored architecture proposals for larger-scale ML platforms spanning recommendation engines, computer-vision/OCR, and conversational AI.
+Self-initiated and built a fraud-detection system from zero: semantic-embedding similarity search against a rolling reference dataset, a local-LLM GenAI subsystem for content generation, and multilingual translation for content classification. Built an ensemble ML classifier (XGBoost/CatBoost) with SHAP explainability and hyperparameter tuning, plus a throughput-based hardware-sizing model. Extended into R&D with graph/network-based risk scoring for fraud-ring identification and churn/lifetime-value prediction prototypes (scikit-learn, Flask, React). Authored architecture proposals for larger-scale ML platforms spanning fraud detection, predictive/customer analytics, and roaming analytics.
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ Self-initiated and built a production fraud-detection system from zero: semantic
 <td>
 
 **Data Platforms & DevOps**
-Architected and led development of a multi-tenant business-intelligence platform deployed across multiple on-prem sites, evolving it from an early analytics prototype into a productionized, containerized system (Docker Compose, GitLab CI/CD on a self-configured runner). Stood up multi-node Elasticsearch clusters with mutual TLS, custom RBAC roles, and a disaster-recovery/backup toolchain. Built hundreds of ETL pipeline configurations with hand-written SQL rollups, custom dashboard visualizations, and a parallelized data-reconciliation framework validating pipeline integrity at scale. Designed capacity-planning and hardware-sizing models for data and ML-inference infrastructure.
+Architected and led development of a business-intelligence platform, deployed as a centralized on-prem system, evolving it from an early analytics prototype into a productionized, containerized system (Docker Compose, GitLab CI/CD on a self-configured runner). Stood up multi-node Elasticsearch clusters with mutual TLS, custom RBAC roles, and a disaster-recovery/backup toolchain. Built hundreds of ETL pipeline configurations with hand-written SQL rollups, custom dashboard visualizations, and a parallelized data-reconciliation framework validating pipeline integrity at scale. Designed capacity-planning and hardware-sizing models for data and ML-inference infrastructure.
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ Architected and led development of a multi-tenant business-intelligence platform
 <td>
 
 **Leadership & Pre-Sales**
-Lead and mentor a 10+ engineer team across mobile, web, and AI/ML initiatives, establishing coding standards and CI/CD pipelines. Serve as technical subject-matter expert for pre-sales engagements — architecture proposals, technical validation, and effort estimation. Authored security/compliance guidance aligned to ISO 27001 SDLC hardening and ran internal engineering training programs covering Git workflow standards and AI/ML fundamentals. Organized and judged an internal innovation challenge, evaluating proposals against a weighted scoring rubric.
+Led and mentored a 10+ engineer team across mobile, web, and AI/ML initiatives, establishing coding standards and CI/CD pipelines. Served as technical subject-matter expert for pre-sales engagements - architecture proposals, technical validation, and effort estimation. Authored security/compliance guidance aligned to ISO 27001 SDLC hardening and ran internal engineering training programs covering Git workflow standards and AI/ML fundamentals. Organized and judged an internal innovation challenge, evaluating proposals against a weighted scoring rubric.
 
 </td>
 </tr>
@@ -122,10 +122,10 @@ Lead and mentor a 10+ engineer team across mobile, web, and AI/ML initiatives, e
 | Project | What it is |
 |---|---|
 | [**lottery_analyzer**](https://github.com/PathmikaW/lottery_analyzer) | CatBoost + SHAP/LIME explainability on 485K lottery draw records |
-| [**search-algorithms**](https://github.com/PathmikaW/search-algorithms) | 9 search algorithms visualized on a real routing problem — [live demo](https://search-algorithms-y5oo.vercel.app/) |
-| [**order-management-api**](https://github.com/PathmikaW/order-management-api) | ASP.NET Core order API — Clean Architecture, MediatR domain events |
+| [**search-algorithms**](https://github.com/PathmikaW/search-algorithms) | 9 search algorithms visualized on a real routing problem - [live demo](https://search-algorithms-y5oo.vercel.app/) |
+| [**order-management-api**](https://github.com/PathmikaW/order-management-api) | ASP.NET Core order API - Clean Architecture, MediatR domain events |
 | [**computer-vision-fitting-alignment**](https://github.com/PathmikaW/computer-vision-fitting-alignment) | RANSAC line fitting, homography via manual + SIFT correspondence |
-| [**my-portfolio**](https://github.com/PathmikaW/my-portfolio) | Personal site — Next.js 15, React 19 |
+| [**my-portfolio**](https://github.com/PathmikaW/my-portfolio) | Personal site - Next.js 15, React 19 |
 | [**elk-stack-docker-setup**](https://github.com/PathmikaW/elk-stack-docker-setup) | Multi-node Elasticsearch cluster with SSL/TLS via Docker Compose |
 
 <br/>
