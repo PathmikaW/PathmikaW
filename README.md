@@ -9,7 +9,7 @@
 
 <br/>
 
-Full-stack engineer with ~5 years shipping production mobile, web, and backend systems, now building applied ML/AI systems and deepening that with an **MSc in Artificial Intelligence** (University of Moratuwa).
+Full-stack engineer with 5 years shipping production mobile, web, and backend systems, now building applied ML/AI systems and deepening that with an **MSc in Artificial Intelligence** (University of Moratuwa).
 
 <br/>
 
@@ -65,7 +65,7 @@ Agile delivery · technical mentoring · pre-sales & client engagement · archit
 
 ## 💼 Industry Experience
 
-~5 years across telecom and enterprise engagements, growing from intern to Associate Tech Lead. Generalized by domain here - the underlying codebases, client names, and internal product names belong to employers/clients, not to me:
+5 years across telecom and enterprise engagements, growing from intern to Associate Tech Lead. Generalized by domain here - the underlying codebases, client names, and internal product names belong to employers/clients, not to me:
 
 <table>
 <tr>
