@@ -65,7 +65,7 @@ Agile delivery · technical mentoring · pre-sales & client engagement · archit
 
 ## 💼 Industry Experience
 
-~5 years across telecom and enterprise engagements. Generalized by domain here - the underlying codebases, client names, and internal product names belong to employers/clients, not to me:
+~5 years across telecom and enterprise engagements, growing from intern to Associate Tech Lead. Generalized by domain here - the underlying codebases, client names, and internal product names belong to employers/clients, not to me:
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ Agile delivery · technical mentoring · pre-sales & client engagement · archit
 <td>
 
 **Mobile Engineering**
-Built a fully custom native alarm engine from scratch (Java/Kotlin/Swift) replacing third-party libraries - exact-time delivery through OS battery restrictions, reboot persistence, and an astronomical-data-driven scheduling engine. Hardened production apps against fraud and tampering with certificate/public-key pinning, device-integrity (root/jailbreak/emulator) detection, per-request API integrity signing with a remote kill-switch, and encrypted selective state persistence. Built dual-channel push notification pipelines (FCM/HMS) and custom iOS notification service extensions. Delivered in-app subscription monetization with regional pricing and retention flows, and led major React Native version upgrades including New Architecture/TurboModules scaffolding on large, long-running production codebases.
+Led design and development of cross-platform React Native apps for multiple telecom and enterprise clients, managing store releases across Play Store, App Store, and Huawei AppGallery, and owned a flagship self-care app end-to-end for 2+ years. Built a fully custom native alarm engine from scratch (Java/Kotlin/Swift) replacing third-party libraries - exact-time delivery through OS battery restrictions, reboot persistence, and an astronomical-data-driven scheduling engine. Hardened production apps against fraud and tampering with certificate/public-key pinning, device-integrity (root/jailbreak/emulator) detection, per-request API integrity signing with a remote kill-switch, and encrypted selective state persistence. Built dual-channel push notification pipelines (FCM/HMS) and custom iOS notification service extensions, and delivered in-app subscription monetization with regional pricing and retention flows. Led major React Native version upgrades including New Architecture/TurboModules scaffolding on large, long-running production codebases.
 
 </td>
 </tr>
@@ -91,7 +91,7 @@ Led the team building a Next.js/TypeScript web self-care portal end-to-end and t
 <td>
 
 **AI/ML Engineering**
-Self-initiated and built a fraud-detection system from zero: semantic-embedding similarity search against a rolling reference dataset, a local-LLM GenAI subsystem for content generation, and multilingual translation for content classification. Built an ensemble ML classifier (XGBoost/CatBoost) with SHAP explainability and hyperparameter tuning, plus a throughput-based hardware-sizing model. Extended into R&D with graph/network-based risk scoring for fraud-ring identification and churn/lifetime-value prediction prototypes (scikit-learn, Flask, React). Authored architecture proposals for larger-scale ML platforms spanning fraud detection, predictive/customer analytics, and roaming analytics.
+Self-initiated AI/ML in telecom security from zero and built a fraud-detection system: semantic-embedding similarity search against a rolling reference dataset, a local-LLM GenAI subsystem for content generation, and multilingual translation for content classification. Built an ensemble ML classifier (XGBoost/CatBoost) with SHAP explainability and hyperparameter tuning, plus a throughput-based hardware-sizing model. Extended into R&D with graph/network-based risk scoring for fraud-ring identification and churn/lifetime-value prediction prototypes (scikit-learn, Flask, React). Later led an AI/ML R&D program applying machine-learning-driven detection to an existing fraud-prevention product, and authored architecture proposals for larger-scale ML platforms spanning fraud detection, predictive/customer analytics, and roaming analytics.
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ Self-initiated and built a fraud-detection system from zero: semantic-embedding 
 <td>
 
 **Data Platforms & DevOps**
-Architected and led development of a business-intelligence platform, deployed as a centralized on-prem system, evolving it from an early analytics prototype into a productionized, containerized system (Docker Compose, GitLab CI/CD on a self-configured runner). Stood up multi-node Elasticsearch clusters with mutual TLS, custom RBAC roles, and a disaster-recovery/backup toolchain. Built hundreds of ETL pipeline configurations with hand-written SQL rollups, custom dashboard visualizations, and a parallelized data-reconciliation framework validating pipeline integrity at scale. Designed capacity-planning and hardware-sizing models for data and ML-inference infrastructure.
+Architected and led development of a business-intelligence platform, deployed as a centralized on-prem system, evolving it from an early analytics prototype into a productionized, containerized system (Docker Compose, GitLab CI/CD on a self-configured runner). Stood up multi-node Elasticsearch clusters with mutual TLS, custom RBAC roles, and a disaster-recovery/backup toolchain. Built hundreds of ETL pipeline configurations with hand-written SQL rollups, custom dashboard visualizations, and a parallelized data-reconciliation framework validating pipeline integrity at scale. Also led a centralized data-reporting platform spanning backend pipelines and web dashboards. Designed capacity-planning and hardware-sizing models for data and ML-inference infrastructure.
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ Architected and led development of a business-intelligence platform, deployed as
 <td>
 
 **Leadership & Pre-Sales**
-Led and mentored a 10+ engineer team across mobile, web, and AI/ML initiatives, establishing coding standards and CI/CD pipelines. Served as technical subject-matter expert for pre-sales engagements - architecture proposals, technical validation, and effort estimation. Authored security/compliance guidance aligned to ISO 27001 SDLC hardening and ran internal engineering training programs covering Git workflow standards and AI/ML fundamentals. Organized and judged an internal innovation challenge, evaluating proposals against a weighted scoring rubric.
+Led and mentored a 10+ engineer team across mobile, web, and AI/ML initiatives, owning architecture design, effort estimation, and SOW reviews and establishing coding standards and CI/CD pipelines. Served as technical subject-matter expert for pre-sales engagements with clients across Africa, South Asia, and the Middle East - architecture proposals, technical validation, and effort estimation. Managed client communications and reported to management, and represented the team in company progress meetings with quarterly and annual updates. Authored security/compliance guidance aligned to ISO 27001 SDLC hardening and ran internal engineering training programs covering Git workflow standards and AI/ML fundamentals. Maintained versioned project planning and knowledge-transfer documentation on the company SharePoint. Organized and judged an internal innovation challenge, evaluating proposals against a weighted scoring rubric.
 
 </td>
 </tr>
