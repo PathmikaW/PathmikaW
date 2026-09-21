@@ -19,19 +19,19 @@ Full-stack engineer with 5 years shipping production mobile, web, and backend sy
 <tr><td><b>📱 Mobile</b></td><td>
 
 <img src="https://skillicons.dev/icons?i=react,java,kotlin,swift,androidstudio&theme=dark" height="40"/>
-<br/>React Native (incl. New Architecture/TurboModules) · Android (Java/Kotlin) · iOS (Swift/Objective-C) · Huawei HMS · native module bridging
+<br/>React Native (Expo, incl. New Architecture/TurboModules) · Android (Java/Kotlin) · iOS (Swift/Objective-C) · Huawei HMS · native module bridging
 
 </td></tr>
 <tr><td><b>🌐 Web</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux&theme=dark" height="40"/>
-<br/>React.js · Next.js · TypeScript/JavaScript · Redux
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,jest,vitest&theme=dark" height="40"/>
+<br/>React.js · Next.js · TypeScript/JavaScript · Redux · Jest/Vitest
 
 </td></tr>
 <tr><td><b>🔌 Backend & APIs</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,spring,dotnet&theme=dark" height="40"/>
-<br/>Python · FastAPI · REST API design · Microservices · Java (Spring Boot) · .NET (ASP.NET Core)
+<img src="https://skillicons.dev/icons?i=py,nodejs,fastapi,spring,dotnet&theme=dark" height="40"/>
+<br/>Python · FastAPI · Node.js (Fastify) · REST API design · WebSockets · Microservices · Java (Spring Boot) · .NET (ASP.NET Core)
 
 </td></tr>
 <tr><td><b>🤖 AI/ML</b></td><td>
@@ -48,8 +48,8 @@ Full-stack engineer with 5 years shipping production mobile, web, and backend sy
 </td></tr>
 <tr><td><b>⚙️ DevOps</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=azure,docker,git,githubactions,gitlab,jenkins,linux,prometheus,grafana&theme=dark" height="40"/>
-<br/>Microsoft Azure (AZ-900 Certified) · Docker · Git · CI/CD · Linux · Prometheus/Grafana
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,githubactions,gitlab,jenkins,linux,prometheus,grafana&theme=dark" height="40"/>
+<br/>Microsoft Azure (AZ-900 Certified) · AWS (EC2, IAM) · Docker · Git · CI/CD · Linux · Prometheus/Grafana
 
 </td></tr>
 <tr><td><b>👥 Leadership</b></td><td>
@@ -109,6 +109,7 @@ Agile delivery · technical mentoring · pre-sales & client engagement · archit
 
 | Project | What it is |
 |---|---|
+| [**pulsecrypto-mobile**](https://github.com/PathmikaW/pulsecrypto-mobile) · [**pulsecrypto-backend**](https://github.com/PathmikaW/pulsecrypto-backend) | Real-time crypto market viewer - a Node.js/Fastify WebSocket gateway (100 ms conflation, backpressure) hosted on AWS EC2, and an Expo/React Native app for Android & iOS |
 | [**lottery_analyzer**](https://github.com/PathmikaW/lottery_analyzer) | CatBoost + SHAP/LIME explainability on 485K lottery draw records |
 | [**search-algorithms**](https://github.com/PathmikaW/search-algorithms) | 9 search algorithms visualized on a real routing problem - [live demo](https://search-algorithms-y5oo.vercel.app/) |
 | [**order-management-api**](https://github.com/PathmikaW/order-management-api) | ASP.NET Core order API - Clean Architecture, MediatR domain events |
