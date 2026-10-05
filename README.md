@@ -4,12 +4,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathmika-weerarathna-4600b31a1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathmikaweerarathna@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pathmikaw.vercel.app/en/blog)
 
 </div>
 
 <br/>
 
 Full-stack engineer with 5 years shipping production mobile, web, and backend systems, now building applied ML/AI systems and deepening that with an **MSc in Artificial Intelligence** (University of Moratuwa).
+
+🌱 **Now:** on a career break - freelancing, continuing my MSc, and starting my first home farm. I'm writing about it in public in my **[Garden Diary](https://pathmikaw.vercel.app/en/blog)** blog.
 
 <br/>
 
