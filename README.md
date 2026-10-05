@@ -12,7 +12,7 @@
 
 Full-stack engineer with 5 years shipping production mobile, web, and backend systems, now building applied ML/AI systems and deepening that with an **MSc in Artificial Intelligence** (University of Moratuwa).
 
-🌱 **Now:** on a career break - freelancing, continuing my MSc, and starting my first home farm. I'm writing about it in public in my **[Garden Diary](https://pathmikaw.vercel.app/en/blog)** blog.
+✍️ **Blog:** [Visit my blog here](https://pathmikaw.vercel.app/en/blog)
 
 <br/>
 
